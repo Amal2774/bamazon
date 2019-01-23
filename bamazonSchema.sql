@@ -11,3 +11,5 @@ department_name VARCHAR(30) NOT NULL,
 price INT NOT NULL,
 stock_quantity INT(10) NOT NULL
 );
+
+

@@ -11,14 +11,14 @@ To Get Started
 
 Run app and display items
 
-![Image](./images/runApp-displayItems.png)
+![Image](./imgs/runApp-displayItems.png)
 
 
 Customer item purchase
 
-![Image](./images/customerPurchase.png)
+![Image](./imgs/customerPurchase.png)
 
 
 Keep shopping command, finish and end connection
 
-![Image](./images/keepShopping-finish-endConnection.png)
+![Image](./imgs/keepShopping-finish-endConnection.png)
